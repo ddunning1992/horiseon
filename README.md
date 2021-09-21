@@ -1,1 +1,2 @@
 # Code Refactor Starter Code
+Code refactor for Horiseon website. Includes removal of redundancies in stylesheet and organized to match the flow on page, fixed broken links, replaced divs with symantic elements, added comments to the stylesheet, added alts attributes, fixed title, adjusted heading attributes to follow sequential order.
